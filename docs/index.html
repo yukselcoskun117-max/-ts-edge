@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0B0F14">
+<title>TS EDGE PRO</title>
+<style>
+  :root {
+    --bg:#0B0F14; --panel:#111823; --line:#1E2A3A; --text:#D6E2F0; --dim:#6B7C93;
+    --buy:#2DD4A7; --second:#5EA8FF; --watch:#E8B34B; --risk:#F0605D;
+  }
+  * { box-sizing:border-box; margin:0; }
+  body { background:var(--bg); color:var(--text); font-family:system-ui,-apple-system,sans-serif; padding:14px; }
+  .wrap { max-width:640px; margin:0 auto; }
+  h1 { font-size:18px; letter-spacing:-0.02em; }
+  h1 .pro { color:var(--buy); }
+  h1 .v { color:var(--dim); font-weight:400; font-size:13px; }
+  .sub { color:var(--dim); font-size:11px; margin:2px 0 12px; }
+  .tabs { display:flex; gap:6px; overflow-x:auto; padding-bottom:4px; margin-bottom:10px; }
+  .tab { flex-shrink:0; background:transparent; color:var(--dim); border:1px solid var(--line); border-radius:16px; padding:6px 13px; font-size:12px; }
+  .tab.on { background:var(--line); color:var(--text); }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:12px 14px; margin-bottom:8px; }
+  .row1 { display:flex; justify-content:space-between; align-items:baseline; }
+  .nm { font-weight:700; font-size:15px; }
+  .tip { color:var(--dim); font-size:10px; margin-left:6px; }
+  .px { font-family:ui-monospace,monospace; font-size:13px; color:var(--dim); }
+  .sig { font-size:11px; font-weight:800; letter-spacing:0.04em; }
+  .bars { display:flex; gap:14px; margin:9px 0 4px; }
+  .bx { flex:1; }
+  .bl { font-size:10px; color:var(--dim); margin-bottom:3px; }
+  .track { height:6px; background:var(--line); border-radius:3px; }
+  .fill { height:100%; border-radius:3px; }
+  .bv { font-family:ui-monospace,monospace; font-size:11px; margin-top:2px; }
+  .meta { display:flex; gap:12px; flex-wrap:wrap; font-size:11px; color:var(--dim); font-family:ui-monospace,monospace; margin-top:6px; }
+  .badge { font-size:10px; font-weight:700; border-radius:4px; padding:2px 6px; }
+  .err { color:var(--risk); font-size:12px; }
+  .empty { color:var(--dim); text-align:center; padding:30px 0; font-size:13px; }
+  .foot { color:var(--dim); font-size:10px; text-align:center; margin:16px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>TS EDGE <span class="pro">PRO</span> <span class="v">Trend Scanner v3</span></h1>
+  <div class="sub" id="sub">yükleniyor…</div>
+  <div class="tabs" id="tabs"></div>
+  <div id="list"><div class="empty">Veriler yükleniyor…</div></div>
+  <div class="foot">Veriler Yahoo Finance kaynaklı ve gecikmelidir · Yatırım tavsiyesi değildir</div>
+</div>
+<script>
+const TABS = [["all","Tümü"],["buy","Güçlü Al"],["second","İkinci Alım"],["watch","İzle"],["cmd","Emtia"]];
+let tab = "all", data = null;
+
+const col = s => s==="GÜÇLÜ AL" ? "var(--buy)" : s==="İKİNCİ ALIM" ? "var(--second)" : s==="İZLE" ? "var(--watch)" : "var(--dim)";
+const scol = v => v>=80 ? "var(--buy)" : v>=50 ? "var(--watch)" : "var(--dim)";
+
+function bar(label, v) {
+  const val = v==null ? "—" : Math.round(v);
+  const w = v==null ? 0 : v;
+  return `<div class="bx"><div class="bl">${label}</div>
+    <div class="track"><div class="fill" style="width:${w}%;background:${scol(v??0)}"></div></div>
+    <div class="bv" style="color:${scol(v??0)}">${val}</div></div>`;
+}
+
+function render() {
+  document.getElementById("tabs").innerHTML = TABS.map(([id,lb]) => {
+    let n = "";
+    if (data) {
+      const c = data.rows.filter(r => match(r, id)).length;
+      n = ` (${c})`;
+    }
+    return `<button class="tab ${tab===id?"on":""}" onclick="setTab('${id}')">${lb}${n}</button>`;
+  }).join("");
+
+  if (!data) return;
+  const rows = data.rows.filter(r => match(r, tab));
+  const list = document.getElementById("list");
+  if (rows.length === 0) { list.innerHTML = `<div class="empty">Bu listede sembol yok.</div>`; return; }
+
+  list.innerHTML = rows.map(r => {
+    if (r.err) return `<div class="card"><div class="row1"><span class="nm">${r.name}</span><span class="err">veri alınamadı</span></div></div>`;
+    const sg = r.secondBuy ? "İKİNCİ ALIM" : r.sig;
+    const gram = r.gram ? ` · Gram ≈ ${r.gram.toLocaleString("tr-TR")} ₺` : "";
+    return `<div class="card">
+      <div class="row1">
+        <span><span class="nm">${r.name}</span><span class="tip">${r.tip}</span></span>
+        <span class="sig" style="color:${col(sg)}">${sg}</span>
+      </div>
+      <div class="px">${r.close?.toLocaleString("tr-TR")}${gram}</div>
+      <div class="bars">${bar("1 saat", r.s1)}${bar("4 saat", r.s4)}${bar("Ortak", r.common)}</div>
+      <div class="meta">
+        <span>RSI ${r.rsi ?? "—"}</span><span>ADX ${r.adx ?? "—"}</span>
+        <span>RelVol ${r.relVol ?? "—"}</span>
+        <span style="color:${r.risk>60?"var(--risk)":"var(--dim)"}">Risk ${r.risk}</span>
+        ${r.warrant ? `<span class="badge" style="background:var(--buy);color:#04110C">VARANT UYGUN</span>` : ""}
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function match(r, id) {
+  if (id === "all") return true;
+  if (r.err) return false;
+  if (id === "buy") return r.sig === "GÜÇLÜ AL";
+  if (id === "second") return r.secondBuy;
+  if (id === "watch") return r.sig === "İZLE";
+  if (id === "cmd") return r.tip === "Emtia";
+  return true;
+}
+
+function setTab(t) { tab = t; render(); }
+
+fetch("data.json?" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    data = d;
+    const dt = new Date(d.updated);
+    document.getElementById("sub").textContent =
+      "Son tarama: " + dt.toLocaleString("tr-TR") + " · ortak = 0.4×1s + 0.6×4s";
+    render();
+  })
+  .catch(() => {
+    document.getElementById("list").innerHTML =
+      `<div class="empty">Henüz veri yok. İlk tarama çalıştıktan sonra bu sayfa dolacak.</div>`;
+  });
+render();
+</script>
+</body>
+</html>
