@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-09T22:11:50.698Z",
- "usdtry": 46.93482971191406,
+ "updated": "2026-07-09T22:26:27.341Z",
+ "usdtry": 46.933650970458984,
  "rows": [
   {
    "name": "TUPRS",
@@ -64,8 +64,8 @@
    "rsi": 60,
    "adx": 24,
    "relVol": null,
-   "close": 4134.1,
-   "gram": 6238.31
+   "close": 4132.8,
+   "gram": 6236.19
   },
   {
    "name": "Gümüş",
@@ -77,11 +77,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 21,
+   "risk": 20,
    "rsi": 59,
    "adx": 24,
    "relVol": null,
-   "close": 60.38
+   "close": 60.37
   },
   {
    "name": "GUBRF",
@@ -145,7 +145,7 @@
    "rsi": 39,
    "adx": 23,
    "relVol": null,
-   "close": 75.95
+   "close": 76
   },
   {
    "name": "WTI",
@@ -157,9 +157,9 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 34,
+   "risk": 35,
    "rsi": 39,
-   "adx": 22,
+   "adx": 23,
    "relVol": null,
    "close": 71.73
   },
