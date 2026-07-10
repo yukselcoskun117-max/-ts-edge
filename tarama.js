@@ -117,7 +117,13 @@ function score(bars) {
   const r = rsi(c.slice(-120));
   const a = adx(h,l,c);
   const volAvg = sma(v,20,i);
-  const relVol = volAvg ? v[i]/volAvg : null;
+  let relVol = null;
+  if (volAvg && v[i] > 0) relVol = v[i]/volAvg;
+  if (relVol === null || relVol < 0.1) {
+    // Son bar henuz taze/bos ise bir onceki tamamlanmis bari kullan
+    const volAvgP = sma(v,20,i-1);
+    if (volAvgP && v[i-1] > 0) relVol = v[i-1]/volAvgP;
+  }
   const f = fisher(h,l);
   const fTurn = f[i] > f[i-1] && f[i-1] <= f[i-2];
 
