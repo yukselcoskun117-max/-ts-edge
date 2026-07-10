@@ -2,7 +2,7 @@ name: TS EDGE Tarama
 
 on:
   schedule:
-    - cron: "*/30 6-18 * * 1-5"
+    - cron: "0,30 6-18 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
