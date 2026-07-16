@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-16T16:51:02.834Z",
- "usdtry": 47.046600341796875,
+ "updated": "2026-07-16T20:14:50.912Z",
+ "usdtry": 47.05030059814453,
  "rows": [
   {
    "name": "KRDMD",
@@ -323,6 +323,22 @@
    "close": 422.25
   },
   {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 30,
+   "common": 30,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 46,
+   "rsi": 33,
+   "adx": 43,
+   "relVol": 0.02,
+   "close": 55.88
+  },
+  {
    "name": "ASTOR",
    "sym": "ASTOR.IS",
    "tip": "BIST",
@@ -337,38 +353,6 @@
    "adx": 19,
    "relVol": 1.15,
    "close": 312.5
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 10,
-   "s4": 40,
-   "common": 28,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 52,
-   "rsi": 50,
-   "adx": 12,
-   "relVol": 2.3,
-   "close": 84.92
-  },
-  {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 10,
-   "s4": 40,
-   "common": 28,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 45,
-   "rsi": 41,
-   "adx": 12,
-   "relVol": 1.62,
-   "close": 78.81
   },
   {
    "name": "EKGYO",
@@ -387,20 +371,20 @@
    "close": 20.76
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
+   "name": "Brent",
+   "sym": "BZ=F",
    "tip": "Emtia",
-   "s1": 30,
-   "s4": 20,
+   "s1": 0,
+   "s4": 40,
    "common": 24,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 45,
-   "rsi": 35,
-   "adx": 37,
-   "relVol": 0.88,
-   "close": 56.32
+   "risk": 47,
+   "rsi": 44,
+   "adx": 9,
+   "relVol": 0.01,
+   "close": 84.31
   },
   {
    "name": "GARAN",
@@ -467,6 +451,22 @@
    "close": 305
   },
   {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 0,
+   "s4": 30,
+   "common": 18,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 41,
+   "rsi": 38,
+   "adx": 16,
+   "relVol": 0.04,
+   "close": 78.38
+  },
+  {
    "name": "ISCTR",
    "sym": "ISCTR.IS",
    "tip": "BIST",
@@ -508,12 +508,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 21,
-   "rsi": 34,
-   "adx": 18,
-   "relVol": 1.14,
-   "close": 3993.6,
-   "gram": 6040.65
+   "risk": 22,
+   "rsi": 31,
+   "adx": 22,
+   "relVol": 0.04,
+   "close": 3982.5,
+   "gram": 6024.33
   },
   {
    "name": "THYAO",
