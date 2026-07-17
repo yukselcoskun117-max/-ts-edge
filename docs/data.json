@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-17T16:04:01.745Z",
- "usdtry": 47.15829849243164,
+ "updated": "2026-07-17T20:14:33.871Z",
+ "usdtry": 47.158199310302734,
  "rows": [
   {
    "name": "PETKM",
@@ -35,22 +35,6 @@
    "close": 289.25
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 55,
-   "s4": 50,
-   "common": 52,
-   "sig": "İZLE",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 52,
-   "rsi": 66,
-   "adx": 18,
-   "relVol": 3.05,
-   "close": 86.78
-  },
-  {
    "name": "KCHOL",
    "sym": "KCHOL.IS",
    "tip": "BIST",
@@ -83,20 +67,20 @@
    "close": 42.76
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
+   "name": "Brent",
+   "sym": "BZ=F",
    "tip": "Emtia",
-   "s1": 55,
-   "s4": 40,
+   "s1": 40,
+   "s4": 50,
    "common": 46,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 49,
-   "rsi": 62,
-   "adx": 15,
-   "relVol": 3.26,
-   "close": 80.78
+   "risk": 55,
+   "rsi": 70,
+   "adx": 26,
+   "relVol": 0.01,
+   "close": 87.79
   },
   {
    "name": "ULKER",
@@ -113,39 +97,6 @@
    "adx": 21,
    "relVol": 1.6,
    "close": 97.95
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 50,
-   "s4": 40,
-   "common": 44,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 37,
-   "rsi": 55,
-   "adx": 28,
-   "relVol": 1.95,
-   "close": 56.42
-  },
-  {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 50,
-   "s4": 35,
-   "common": 41,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 14,
-   "rsi": 58,
-   "adx": 14,
-   "relVol": 2.46,
-   "close": 4024.1,
-   "gram": 6101.23
   },
   {
    "name": "BIMAS",
@@ -210,6 +161,22 @@
    "adx": 31,
    "relVol": 1.51,
    "close": 2.43
+  },
+  {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 40,
+   "common": 36,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 51,
+   "rsi": 64,
+   "adx": 21,
+   "relVol": 0.04,
+   "close": 81.44
   },
   {
    "name": "ENKAI",
@@ -308,6 +275,23 @@
    "close": 44.2
   },
   {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 20,
+   "common": 28,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 14,
+   "rsi": 55,
+   "adx": 10,
+   "relVol": 0.05,
+   "close": 4018.9,
+   "gram": 6093.34
+  },
+  {
    "name": "TOASO",
    "sym": "TOASO.IS",
    "tip": "BIST",
@@ -322,6 +306,22 @@
    "adx": 30,
    "relVol": 0.46,
    "close": 307.75
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 30,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 35,
+   "rsi": 55,
+   "adx": 21,
+   "relVol": 0.03,
+   "close": 56.39
   },
   {
    "name": "ARCLK",
