@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-21T17:03:07.021Z",
- "usdtry": 47.192848205566406,
+ "updated": "2026-07-21T21:42:50.187Z",
+ "usdtry": 47.047298431396484,
  "rows": [
   {
    "name": "OYAKC",
@@ -29,11 +29,11 @@
    "secondBuy": false,
    "warrant": false,
    "risk": 11,
-   "rsi": 66,
-   "adx": 31,
-   "relVol": 0.81,
-   "close": 4077.1,
-   "gram": 6186.12
+   "rsi": 64,
+   "adx": 33,
+   "relVol": 0.37,
+   "close": 4082.2,
+   "gram": 6174.75
   },
   {
    "name": "KCHOL",
@@ -61,11 +61,11 @@
    "sig": "İZLE",
    "secondBuy": false,
    "warrant": false,
-   "risk": 23,
-   "rsi": 66,
-   "adx": 34,
-   "relVol": 0.75,
-   "close": 59.2
+   "risk": 22,
+   "rsi": 62,
+   "adx": 31,
+   "relVol": 0.44,
+   "close": 59.07
   },
   {
    "name": "PETKM",
@@ -82,6 +82,22 @@
    "adx": 32,
    "relVol": 0.54,
    "close": 21.32
+  },
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 45,
+   "s4": 50,
+   "common": 48,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 58,
+   "rsi": 68,
+   "adx": 25,
+   "relVol": 0.24,
+   "close": 91.44
   },
   {
    "name": "KRDMD",
@@ -116,8 +132,8 @@
    "close": 309.5
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
+   "name": "WTI",
+   "sym": "CL=F",
    "tip": "Emtia",
    "s1": 40,
    "s4": 50,
@@ -125,11 +141,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 60,
-   "rsi": 69,
-   "adx": 23,
-   "relVol": 1.79,
-   "close": 91.35
+   "risk": 53,
+   "rsi": 66,
+   "adx": 25,
+   "relVol": 0.3,
+   "close": 84.54
   },
   {
    "name": "BIMAS",
@@ -146,22 +162,6 @@
    "adx": 25,
    "relVol": 0.59,
    "close": 393
-  },
-  {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 30,
-   "s4": 50,
-   "common": 42,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 55,
-   "rsi": 68,
-   "adx": 23,
-   "relVol": 1.45,
-   "close": 84.51
   },
   {
    "name": "BRSAN",
@@ -242,6 +242,22 @@
    "adx": 23,
    "relVol": 0.57,
    "close": 416.25
+  },
+  {
+   "name": "KONTR",
+   "sym": "KONTR.IS",
+   "tip": "BIST",
+   "s1": 40,
+   "s4": 30,
+   "common": 34,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 100,
+   "rsi": 52,
+   "adx": 40,
+   "relVol": 1.29,
+   "close": 5.25
   },
   {
    "name": "ARCLK",
@@ -514,12 +530,6 @@
    "adx": 23,
    "relVol": 0.5,
    "close": 317.5
-  },
-  {
-   "name": "KONTR",
-   "sym": "KONTR.IS",
-   "tip": "BIST",
-   "err": "HTTP 400"
   },
   {
    "name": "KOZAL",
