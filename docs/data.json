@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-22T17:03:13.928Z",
- "usdtry": 47.20909881591797,
+ "updated": "2026-07-22T21:38:37.717Z",
+ "usdtry": 47.20840072631836,
  "rows": [
   {
    "name": "SASA",
@@ -17,22 +17,6 @@
    "adx": 29,
    "relVol": 1.56,
    "close": 2.64
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 60,
-   "s4": 70,
-   "common": 66,
-   "sig": "İZLE",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 33,
-   "rsi": 59,
-   "adx": 31,
-   "relVol": 1.85,
-   "close": 60.28
   },
   {
    "name": "PETKM",
@@ -67,6 +51,55 @@
    "close": 21.3
   },
   {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 50,
+   "s4": 60,
+   "common": 56,
+   "sig": "İZLE",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 17,
+   "rsi": 56,
+   "adx": 43,
+   "relVol": 0.36,
+   "close": 4135,
+   "gram": 6276.04
+  },
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 65,
+   "common": 55,
+   "sig": "İZLE",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 71,
+   "rsi": 57,
+   "adx": 30,
+   "relVol": 0.31,
+   "close": 93.88
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 60,
+   "common": 52,
+   "sig": "İZLE",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 30,
+   "rsi": 55,
+   "adx": 27,
+   "relVol": 0.36,
+   "close": 60.03
+  },
+  {
    "name": "KCHOL",
    "sym": "KCHOL.IS",
    "tip": "BIST",
@@ -83,21 +116,20 @@
    "close": 204.3
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
+   "name": "WTI",
+   "sym": "CL=F",
    "tip": "Emtia",
-   "s1": 50,
+   "s1": 45,
    "s4": 50,
-   "common": 50,
-   "sig": "İZLE",
+   "common": 48,
+   "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 19,
-   "rsi": 65,
-   "adx": 48,
-   "relVol": 1.25,
-   "close": 4152,
-   "gram": 6301.93
+   "risk": 50,
+   "rsi": 55,
+   "adx": 31,
+   "relVol": 0.27,
+   "close": 86.48
   },
   {
    "name": "TUPRS",
@@ -114,38 +146,6 @@
    "adx": 44,
    "relVol": 0.95,
    "close": 313.75
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 50,
-   "common": 46,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 72,
-   "rsi": 56,
-   "adx": 32,
-   "relVol": 1.06,
-   "close": 93.37
-  },
-  {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 50,
-   "common": 46,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 55,
-   "rsi": 55,
-   "adx": 35,
-   "relVol": 1.03,
-   "close": 86.29
   },
   {
    "name": "BIMAS",
