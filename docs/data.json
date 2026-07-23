@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-23T17:06:24.954Z",
- "usdtry": 47.22919845581055,
+ "updated": "2026-07-23T20:46:28.204Z",
+ "usdtry": 47.23189926147461,
  "rows": [
   {
    "name": "PETKM",
@@ -35,20 +35,20 @@
    "close": 2.65
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
+   "name": "Brent",
+   "sym": "BZ=F",
    "tip": "Emtia",
-   "s1": 50,
-   "s4": 50,
-   "common": 50,
-   "sig": "İZLE",
+   "s1": 40,
+   "s4": 55,
+   "common": 49,
+   "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 75,
-   "rsi": 83,
-   "adx": 52,
-   "relVol": 1.5,
-   "close": 92.41
+   "risk": 100,
+   "rsi": 61,
+   "adx": 25,
+   "relVol": 0.17,
+   "close": 100.19
   },
   {
    "name": "ASELS",
@@ -83,20 +83,20 @@
    "close": 314.5
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
+   "name": "WTI",
+   "sym": "CL=F",
    "tip": "Emtia",
-   "s1": 55,
-   "s4": 40,
+   "s1": 40,
+   "s4": 50,
    "common": 46,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 100,
-   "rsi": 63,
-   "adx": 25,
-   "relVol": 0.91,
-   "close": 100.76
+   "risk": 70,
+   "rsi": 67,
+   "adx": 50,
+   "relVol": 0.29,
+   "close": 91.94
   },
   {
    "name": "OYAKC",
@@ -115,23 +115,6 @@
    "close": 20.82
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 35,
-   "s4": 40,
-   "common": 38,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 9,
-   "rsi": 32,
-   "adx": 49,
-   "relVol": 1.65,
-   "close": 4053.3,
-   "gram": 6154.75
-  },
-  {
    "name": "EREGL",
    "sym": "EREGL.IS",
    "tip": "BIST",
@@ -146,6 +129,23 @@
    "adx": 28,
    "relVol": 0.91,
    "close": 44.2
+  },
+  {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 10,
+   "s4": 50,
+   "common": 34,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 9,
+   "rsi": 35,
+   "adx": 53,
+   "relVol": 0.19,
+   "close": 4052.3,
+   "gram": 6153.58
   },
   {
    "name": "AKBNK",
@@ -333,11 +333,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 16,
-   "rsi": 32,
-   "adx": 45,
-   "relVol": 0.87,
-   "close": 58.03
+   "risk": 17,
+   "rsi": 33,
+   "adx": 51,
+   "relVol": 0.17,
+   "close": 57.92
   },
   {
    "name": "BRSAN",
