@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-27T15:56:49.023Z",
- "usdtry": 47.34410095214844,
+ "updated": "2026-07-27T20:51:44.496Z",
+ "usdtry": 47.34109878540039,
  "rows": [
   {
    "name": "ARCLK",
@@ -17,23 +17,6 @@
    "adx": 30,
    "relVol": 1.09,
    "close": 99.3
-  },
-  {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 9,
-   "rsi": 47,
-   "adx": 24,
-   "relVol": 1.77,
-   "close": 4078.9,
-   "gram": 6208.69
   },
   {
    "name": "SASA",
@@ -84,8 +67,8 @@
    "close": 90.65
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
    "tip": "Emtia",
    "s1": 30,
    "s4": 40,
@@ -93,27 +76,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 22,
-   "rsi": 43,
-   "adx": 21,
-   "relVol": 1.05,
-   "close": 58.87
-  },
-  {
-   "name": "OYAKC",
-   "sym": "OYAKC.IS",
-   "tip": "BIST",
-   "s1": 20,
-   "s4": 45,
-   "common": 35,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 29,
-   "rsi": 37,
-   "adx": 27,
-   "relVol": 0.92,
-   "close": 20.34
+   "risk": 9,
+   "rsi": 48,
+   "adx": 19,
+   "relVol": 0.27,
+   "close": 4079.6,
+   "gram": 6209.36
   },
   {
    "name": "PETKM",
@@ -141,11 +109,27 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 72,
+   "risk": 65,
    "rsi": 25,
    "adx": 45,
    "relVol": 0.79,
    "close": 292.25
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 40,
+   "common": 32,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 18,
+   "rsi": 42,
+   "adx": 17,
+   "relVol": 0.34,
+   "close": 58.72
   },
   {
    "name": "SAHOL",
@@ -258,6 +242,22 @@
    "adx": 19,
    "relVol": 1.17,
    "close": 12.89
+  },
+  {
+   "name": "OYAKC",
+   "sym": "OYAKC.IS",
+   "tip": "BIST",
+   "s1": 20,
+   "s4": 30,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 27,
+   "rsi": 37,
+   "adx": 27,
+   "relVol": 0.92,
+   "close": 20.34
   },
   {
    "name": "PGSUS",
@@ -381,11 +381,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 33,
-   "rsi": 36,
-   "adx": 36,
-   "relVol": 1.7,
-   "close": 83.15
+   "risk": 40,
+   "rsi": 32,
+   "adx": 40,
+   "relVol": 0.35,
+   "close": 82.03
   },
   {
    "name": "AKBNK",
@@ -509,11 +509,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 54,
-   "rsi": 40,
-   "adx": 23,
-   "relVol": 1.59,
-   "close": 89.58
+   "risk": 62,
+   "rsi": 35,
+   "adx": 27,
+   "relVol": 0.19,
+   "close": 87.73
   },
   {
    "name": "ASTOR",
