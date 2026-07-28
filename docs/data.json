@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28T17:48:57.176Z",
- "usdtry": 47.36920166015625,
+ "updated": "2026-07-28T21:46:52.819Z",
+ "usdtry": 47.362701416015625,
  "rows": [
   {
    "name": "OYAKC",
@@ -177,39 +177,6 @@
    "adx": 48,
    "relVol": 0.88,
    "close": 89.75
-  },
-  {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 30,
-   "s4": 30,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 9,
-   "rsi": 41,
-   "adx": 26,
-   "relVol": 1.9,
-   "close": 4032.7,
-   "gram": 6141.62
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 30,
-   "s4": 30,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 20,
-   "rsi": 41,
-   "adx": 32,
-   "relVol": 1.61,
-   "close": 57.46
   },
   {
    "name": "GARAN",
@@ -468,8 +435,8 @@
    "close": 32.74
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
    "tip": "Emtia",
    "s1": 20,
    "s4": 20,
@@ -477,11 +444,28 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 59,
-   "rsi": 37,
-   "adx": 41,
-   "relVol": 1.47,
-   "close": 79.29
+   "risk": 10,
+   "rsi": 41,
+   "adx": 26,
+   "relVol": 0.26,
+   "close": 4028.8,
+   "gram": 6134.84
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 20,
+   "common": 20,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 21,
+   "rsi": 40,
+   "adx": 32,
+   "relVol": 0.21,
+   "close": 57.33
   },
   {
    "name": "KCHOL",
@@ -525,11 +509,27 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 75,
-   "rsi": 35,
+   "risk": 72,
+   "rsi": 34,
    "adx": 37,
-   "relVol": 1.32,
-   "close": 84.17
+   "relVol": 0.69,
+   "close": 83.76
+  },
+  {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 10,
+   "common": 14,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 61,
+   "rsi": 37,
+   "adx": 39,
+   "relVol": 0.3,
+   "close": 79.13
   },
   {
    "name": "KOZAL",
