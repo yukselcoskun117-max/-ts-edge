@@ -1,22 +1,22 @@
 {
- "updated": "2026-07-30T17:57:06.508Z",
- "usdtry": 47.407901763916016,
+ "updated": "2026-07-30T21:49:55.891Z",
+ "usdtry": 47.43050003051758,
  "rows": [
   {
    "name": "Gümüş",
    "sym": "SI=F",
    "tip": "Emtia",
    "s1": 60,
-   "s4": 55,
-   "common": 57,
+   "s4": 45,
+   "common": 51,
    "sig": "İZLE",
    "secondBuy": false,
    "warrant": false,
-   "risk": 22,
+   "risk": 24,
    "rsi": 62,
-   "adx": 23,
-   "relVol": 1.88,
-   "close": 59.08
+   "adx": 27,
+   "relVol": 0.85,
+   "close": 59.26
   },
   {
    "name": "SAHOL",
@@ -44,12 +44,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 21,
-   "rsi": 63,
-   "adx": 34,
-   "relVol": 0.95,
-   "close": 4166.7,
-   "gram": 6350.88
+   "risk": 20,
+   "rsi": 60,
+   "adx": 35,
+   "relVol": 0.49,
+   "close": 4162.8,
+   "gram": 6347.96
   },
   {
    "name": "TCELL",
@@ -260,6 +260,22 @@
    "close": 19.01
   },
   {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 50,
+   "s4": 10,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 31,
+   "rsi": 47,
+   "adx": 16,
+   "relVol": 0.36,
+   "close": 89.45
+  },
+  {
    "name": "GUBRF",
    "sym": "GUBRF.IS",
    "tip": "BIST",
@@ -338,22 +354,6 @@
    "adx": 19,
    "relVol": 0.98,
    "close": 4.85
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 10,
-   "common": 22,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 32,
-   "rsi": 45,
-   "adx": 18,
-   "relVol": 0.6,
-   "close": 89.31
   },
   {
    "name": "ASELS",
@@ -493,10 +493,10 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 28,
+   "risk": 29,
    "rsi": 50,
-   "adx": 15,
-   "relVol": 1.07,
+   "adx": 14,
+   "relVol": 0.35,
    "close": 83.96
   },
   {
