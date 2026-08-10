@@ -1,23 +1,7 @@
 {
- "updated": "2026-08-10T18:13:37.504Z",
- "usdtry": 47.70587158203125,
+ "updated": "2026-08-10T19:30:52.807Z",
+ "usdtry": 47.70719909667969,
  "rows": [
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 50,
-   "s4": 55,
-   "common": 53,
-   "sig": "İZLE",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 32,
-   "rsi": 76,
-   "adx": 29,
-   "relVol": 0.09,
-   "close": 87.49
-  },
   {
    "name": "GUBRF",
    "sym": "GUBRF.IS",
@@ -33,6 +17,22 @@
    "adx": 35,
    "relVol": 0.76,
    "close": 441.75
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 60,
+   "common": 52,
+   "sig": "İZLE",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 56,
+   "rsi": 73,
+   "adx": 36,
+   "relVol": 0.36,
+   "close": 66.07
   },
   {
    "name": "TUPRS",
@@ -67,6 +67,22 @@
    "close": 20.7
   },
   {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 50,
+   "s4": 45,
+   "common": 47,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 32,
+   "rsi": 74,
+   "adx": 31,
+   "relVol": 0.15,
+   "close": 87.33
+  },
+  {
    "name": "BRSAN",
    "sym": "BRSAN.IS",
    "tip": "BIST",
@@ -83,22 +99,6 @@
    "close": 629
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 50,
-   "common": 46,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 50,
-   "rsi": 66,
-   "adx": 32,
-   "relVol": 0.05,
-   "close": 65.28
-  },
-  {
    "name": "Altın (Ons)",
    "sym": "GC=F",
    "tip": "Emtia",
@@ -108,28 +108,28 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 31,
-   "rsi": 63,
-   "adx": 21,
-   "relVol": 0.06,
-   "close": 4422,
-   "gram": 6782.37
+   "risk": 33,
+   "rsi": 68,
+   "adx": 24,
+   "relVol": 0.23,
+   "close": 4442.3,
+   "gram": 6813.69
   },
   {
    "name": "WTI",
    "sym": "CL=F",
    "tip": "Emtia",
    "s1": 50,
-   "s4": 30,
-   "common": 38,
+   "s4": 40,
+   "common": 44,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
    "risk": 31,
    "rsi": 77,
-   "adx": 32,
-   "relVol": 0.13,
-   "close": 81.9
+   "adx": 34,
+   "relVol": 0.25,
+   "close": 81.85
   },
   {
    "name": "KCHOL",
