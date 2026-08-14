@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-14T15:52:03.853Z",
- "usdtry": 47.878849029541016,
+ "updated": "2026-08-14T16:52:52.453Z",
+ "usdtry": 47.8755989074707,
  "rows": [
   {
    "name": "ASELS",
@@ -147,23 +147,6 @@
    "close": 361.75
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 18,
-   "rsi": 62,
-   "adx": 24,
-   "relVol": 1.52,
-   "close": 4446.4,
-   "gram": 6844.52
-  },
-  {
    "name": "ISCTR",
    "sym": "ISCTR.IS",
    "tip": "BIST",
@@ -228,8 +211,8 @@
    "close": 89.4
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
    "tip": "Emtia",
    "s1": 30,
    "s4": 40,
@@ -237,27 +220,28 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 30,
-   "rsi": 54,
-   "adx": 15,
-   "relVol": 2.43,
-   "close": 87.85
+   "risk": 17,
+   "rsi": 60,
+   "adx": 24,
+   "relVol": 0.76,
+   "close": 4444,
+   "gram": 6840.36
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
+   "name": "Brent",
+   "sym": "BZ=F",
    "tip": "Emtia",
-   "s1": 40,
-   "s4": 30,
-   "common": 34,
+   "s1": 20,
+   "s4": 45,
+   "common": 35,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 27,
-   "rsi": 56,
-   "adx": 16,
-   "relVol": 1.25,
-   "close": 65.21
+   "risk": 32,
+   "rsi": 55,
+   "adx": 15,
+   "relVol": 0.66,
+   "close": 87.94
   },
   {
    "name": "ENKAI",
@@ -290,6 +274,22 @@
    "adx": 25,
    "relVol": 0.56,
    "close": 19.16
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 30,
+   "common": 30,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 24,
+   "rsi": 53,
+   "adx": 15,
+   "relVol": 1.36,
+   "close": 65.08
   },
   {
    "name": "ARCLK",
@@ -388,22 +388,6 @@
    "close": 419.25
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 30,
-   "common": 26,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 28,
-   "rsi": 49,
-   "adx": 16,
-   "relVol": 1.79,
-   "close": 81.63
-  },
-  {
    "name": "TCELL",
    "sym": "TCELL.IS",
    "tip": "BIST",
@@ -418,6 +402,22 @@
    "adx": 22,
    "relVol": 0.59,
    "close": 104.1
+  },
+  {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 10,
+   "s4": 30,
+   "common": 22,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 28,
+   "rsi": 51,
+   "adx": 15,
+   "relVol": 0.91,
+   "close": 81.82
   },
   {
    "name": "HEKTS",
