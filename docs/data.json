@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-18T16:31:36.268Z",
- "usdtry": 47.917301177978516,
+ "updated": "2026-08-18T17:27:02.559Z",
+ "usdtry": 47.908599853515625,
  "rows": [
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 60,
+   "common": 52,
+   "sig": "İZLE",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 34,
+   "rsi": 59,
+   "adx": 31,
+   "relVol": 0.37,
+   "close": 91.3
+  },
   {
    "name": "ULKER",
    "sym": "ULKER.IS",
@@ -115,22 +131,6 @@
    "close": 429
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 35,
-   "rsi": 58,
-   "adx": 30,
-   "relVol": 0.75,
-   "close": 91.2
-  },
-  {
    "name": "KRDMD",
    "sym": "KRDMD.IS",
    "tip": "BIST",
@@ -145,6 +145,22 @@
    "adx": 37,
    "relVol": 0.65,
    "close": 44
+  },
+  {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 40,
+   "common": 36,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 30,
+   "rsi": 52,
+   "adx": 31,
+   "relVol": 0.37,
+   "close": 84.29
   },
   {
    "name": "ASELS",
@@ -291,22 +307,6 @@
    "close": 38.12
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 30,
-   "s4": 30,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 31,
-   "rsi": 51,
-   "adx": 31,
-   "relVol": 0.76,
-   "close": 84.26
-  },
-  {
    "name": "ISCTR",
    "sym": "ISCTR.IS",
    "tip": "BIST",
@@ -435,6 +435,23 @@
    "close": 78.9
   },
   {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 10,
+   "s4": 30,
+   "common": 22,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 7,
+   "rsi": 35,
+   "adx": 26,
+   "relVol": 0.21,
+   "close": 4422.6,
+   "gram": 6812.11
+  },
+  {
    "name": "HEKTS",
    "sym": "HEKTS.IS",
    "tip": "BIST",
@@ -508,28 +525,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 18,
-   "rsi": 28,
-   "adx": 25,
-   "relVol": 0.57,
-   "close": 64.07
-  },
-  {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 0,
-   "s4": 20,
-   "common": 12,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 7,
-   "rsi": 36,
-   "adx": 24,
-   "relVol": 0.42,
-   "close": 4423.9,
-   "gram": 6815.35
+   "risk": 19,
+   "rsi": 29,
+   "adx": 27,
+   "relVol": 0.38,
+   "close": 64.06
   },
   {
    "name": "KOZAL",
