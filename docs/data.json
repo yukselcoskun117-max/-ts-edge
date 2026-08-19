@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-19T17:51:45.813Z",
- "usdtry": 47.929100036621094,
+ "updated": "2026-08-19T18:35:26.881Z",
+ "usdtry": 47.92689895629883,
  "rows": [
   {
    "name": "ULKER",
@@ -83,20 +83,20 @@
    "close": 19.41
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 50,
-   "s4": 45,
-   "common": 47,
+   "name": "OYAKC",
+   "sym": "OYAKC.IS",
+   "tip": "BIST",
+   "s1": 40,
+   "s4": 55,
+   "common": 49,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 30,
-   "rsi": 55,
-   "adx": 25,
-   "relVol": 1.79,
-   "close": 85.08
+   "risk": 41,
+   "rsi": 56,
+   "adx": 16,
+   "relVol": 3.87,
+   "close": 21.88
   },
   {
    "name": "AKBNK",
@@ -115,20 +115,20 @@
    "close": 70.3
   },
   {
-   "name": "OYAKC",
-   "sym": "OYAKC.IS",
-   "tip": "BIST",
-   "s1": 40,
-   "s4": 50,
-   "common": 46,
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 55,
+   "common": 45,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 40,
-   "rsi": 56,
-   "adx": 16,
-   "relVol": 3.87,
-   "close": 21.88
+   "risk": 32,
+   "rsi": 54,
+   "adx": 27,
+   "relVol": 0.81,
+   "close": 91.89
   },
   {
    "name": "BIMAS",
@@ -172,7 +172,7 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 30,
+   "risk": 31,
    "rsi": 64,
    "adx": 18,
    "relVol": 0.94,
@@ -188,7 +188,7 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 44,
+   "risk": 43,
    "rsi": 62,
    "adx": 20,
    "relVol": 0.66,
@@ -205,10 +205,10 @@
    "secondBuy": false,
    "warrant": false,
    "risk": 21,
-   "rsi": 72,
-   "adx": 44,
-   "relVol": 1.07,
-   "close": 65.81
+   "rsi": 69,
+   "adx": 43,
+   "relVol": 0.34,
+   "close": 65.68
   },
   {
    "name": "BRSAN",
@@ -259,8 +259,8 @@
    "close": 395.5
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
    "tip": "Emtia",
    "s1": 40,
    "s4": 40,
@@ -268,11 +268,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 33,
-   "rsi": 58,
-   "adx": 30,
-   "relVol": 0.9,
-   "close": 92.16
+   "risk": 20,
+   "rsi": 75,
+   "adx": 42,
+   "relVol": 0.4,
+   "close": 4539.7,
+   "gram": 6995.15
   },
   {
    "name": "PETKM",
@@ -323,23 +324,6 @@
    "close": 79.35
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 30,
-   "common": 34,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 20,
-   "rsi": 79,
-   "adx": 41,
-   "relVol": 0.82,
-   "close": 4546.6,
-   "gram": 7006.11
-  },
-  {
    "name": "ASTOR",
    "sym": "ASTOR.IS",
    "tip": "BIST",
@@ -356,6 +340,22 @@
    "close": 331.5
   },
   {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 40,
+   "common": 32,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 27,
+   "rsi": 50,
+   "adx": 23,
+   "relVol": 1.14,
+   "close": 84.68
+  },
+  {
    "name": "ARCLK",
    "sym": "ARCLK.IS",
    "tip": "BIST",
@@ -370,22 +370,6 @@
    "adx": 44,
    "relVol": 1.22,
    "close": 92.4
-  },
-  {
-   "name": "SISE",
-   "sym": "SISE.IS",
-   "tip": "BIST",
-   "s1": 30,
-   "s4": 30,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 56,
-   "rsi": 46,
-   "adx": 28,
-   "relVol": 0.93,
-   "close": 38.84
   },
   {
    "name": "PGSUS",
@@ -413,7 +397,7 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 16,
+   "risk": 15,
    "rsi": 56,
    "adx": 22,
    "relVol": 1.22,
@@ -464,7 +448,7 @@
    "risk": 100,
    "rsi": 46,
    "adx": 18,
-   "relVol": 1.15,
+   "relVol": 1.16,
    "close": 3.95
   },
   {
@@ -514,6 +498,22 @@
    "adx": 42,
    "relVol": 0.39,
    "close": 2.27
+  },
+  {
+   "name": "SISE",
+   "sym": "SISE.IS",
+   "tip": "BIST",
+   "s1": 30,
+   "s4": 20,
+   "common": 24,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 57,
+   "rsi": 46,
+   "adx": 28,
+   "relVol": 0.93,
+   "close": 38.84
   },
   {
    "name": "THYAO",
