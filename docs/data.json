@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-19T17:26:56.148Z",
- "usdtry": 47.929500579833984,
+ "updated": "2026-08-19T17:51:45.813Z",
+ "usdtry": 47.929100036621094,
  "rows": [
   {
    "name": "ULKER",
@@ -83,20 +83,20 @@
    "close": 19.41
   },
   {
-   "name": "OYAKC",
-   "sym": "OYAKC.IS",
-   "tip": "BIST",
-   "s1": 40,
-   "s4": 55,
-   "common": 49,
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 50,
+   "s4": 45,
+   "common": 47,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 41,
-   "rsi": 56,
-   "adx": 16,
-   "relVol": 3.87,
-   "close": 21.88
+   "risk": 30,
+   "rsi": 55,
+   "adx": 25,
+   "relVol": 1.79,
+   "close": 85.08
   },
   {
    "name": "AKBNK",
@@ -113,6 +113,22 @@
    "adx": 29,
    "relVol": 0.97,
    "close": 70.3
+  },
+  {
+   "name": "OYAKC",
+   "sym": "OYAKC.IS",
+   "tip": "BIST",
+   "s1": 40,
+   "s4": 50,
+   "common": 46,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 40,
+   "rsi": 56,
+   "adx": 16,
+   "relVol": 3.87,
+   "close": 21.88
   },
   {
    "name": "BIMAS",
@@ -145,22 +161,6 @@
    "adx": 36,
    "relVol": 0.82,
    "close": 45.78
-  },
-  {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 45,
-   "common": 43,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 33,
-   "rsi": 64,
-   "adx": 27,
-   "relVol": 0.89,
-   "close": 85.65
   },
   {
    "name": "SAHOL",
@@ -205,10 +205,10 @@
    "secondBuy": false,
    "warrant": false,
    "risk": 21,
-   "rsi": 73,
+   "rsi": 72,
    "adx": 44,
-   "relVol": 0.31,
-   "close": 65.85
+   "relVol": 1.07,
+   "close": 65.81
   },
   {
    "name": "BRSAN",
@@ -268,11 +268,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 35,
-   "rsi": 66,
+   "risk": 33,
+   "rsi": 58,
    "adx": 30,
-   "relVol": 0.43,
-   "close": 92.61
+   "relVol": 0.9,
+   "close": 92.16
   },
   {
    "name": "PETKM",
@@ -333,11 +333,11 @@
    "secondBuy": false,
    "warrant": false,
    "risk": 20,
-   "rsi": 80,
-   "adx": 42,
-   "relVol": 0.39,
-   "close": 4548.2,
-   "gram": 7008.63
+   "rsi": 79,
+   "adx": 41,
+   "relVol": 0.82,
+   "close": 4546.6,
+   "gram": 7006.11
   },
   {
    "name": "ASTOR",
@@ -413,7 +413,7 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 15,
+   "risk": 16,
    "rsi": 56,
    "adx": 22,
    "relVol": 1.22,
