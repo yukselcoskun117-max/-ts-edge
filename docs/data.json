@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-19T15:31:14.604Z",
- "usdtry": 47.93439865112305,
+ "updated": "2026-08-19T16:31:33.964Z",
+ "usdtry": 47.93170166015625,
  "rows": [
   {
    "name": "ULKER",
@@ -188,11 +188,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 31,
-   "rsi": 60,
-   "adx": 28,
-   "relVol": 1.48,
-   "close": 85.29
+   "risk": 32,
+   "rsi": 62,
+   "adx": 27,
+   "relVol": 0.91,
+   "close": 85.49
   },
   {
    "name": "SAHOL",
@@ -243,23 +243,6 @@
    "close": 395.5
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 20,
-   "rsi": 80,
-   "adx": 38,
-   "relVol": 0.65,
-   "close": 4545.1,
-   "gram": 7004.57
-  },
-  {
    "name": "Brent",
    "sym": "BZ=F",
    "tip": "Emtia",
@@ -269,11 +252,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 33,
-   "rsi": 61,
-   "adx": 31,
-   "relVol": 1.27,
-   "close": 92.25
+   "risk": 34,
+   "rsi": 64,
+   "adx": 30,
+   "relVol": 0.68,
+   "close": 92.46
   },
   {
    "name": "SISE",
@@ -324,22 +307,6 @@
    "close": 20.12
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 50,
-   "s4": 30,
-   "common": 38,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 22,
-   "rsi": 73,
-   "adx": 45,
-   "relVol": 0.58,
-   "close": 65.71
-  },
-  {
    "name": "EREGL",
    "sym": "EREGL.IS",
    "tip": "BIST",
@@ -388,6 +355,22 @@
    "close": 12.53
   },
   {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 60,
+   "s4": 20,
+   "common": 36,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 23,
+   "rsi": 76,
+   "adx": 45,
+   "relVol": 0.64,
+   "close": 66.03
+  },
+  {
    "name": "PGSUS",
    "sym": "PGSUS.IS",
    "tip": "BIST",
@@ -402,6 +385,23 @@
    "adx": 18,
    "relVol": 1.22,
    "close": 150.1
+  },
+  {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 30,
+   "common": 34,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 21,
+   "rsi": 82,
+   "adx": 40,
+   "relVol": 0.52,
+   "close": 4553.5,
+   "gram": 7017.12
   },
   {
    "name": "HEKTS",
