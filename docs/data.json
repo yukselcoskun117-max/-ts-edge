@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-21T16:34:24.657Z",
- "usdtry": 48.04880142211914,
+ "updated": "2026-08-21T17:28:52.238Z",
+ "usdtry": 48.05339813232422,
  "rows": [
   {
    "name": "PETKM",
@@ -99,8 +99,8 @@
    "close": 281.25
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
+   "name": "Gümüş",
+   "sym": "SI=F",
    "tip": "Emtia",
    "s1": 40,
    "s4": 55,
@@ -108,11 +108,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 34,
-   "rsi": 60,
-   "adx": 26,
-   "relVol": 0.7,
-   "close": 94.19
+   "risk": 44,
+   "rsi": 63,
+   "adx": 31,
+   "relVol": 0.61,
+   "close": 69.76
   },
   {
    "name": "EKGYO",
@@ -300,16 +300,16 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 30,
-   "rsi": 74,
-   "adx": 40,
-   "relVol": 0.59,
-   "close": 4671,
-   "gram": 7215.78
+   "risk": 31,
+   "rsi": 76,
+   "adx": 41,
+   "relVol": 0.66,
+   "close": 4683.8,
+   "gram": 7236.24
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
+   "name": "Brent",
+   "sym": "BZ=F",
    "tip": "Emtia",
    "s1": 40,
    "s4": 40,
@@ -317,11 +317,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 44,
-   "rsi": 63,
-   "adx": 31,
-   "relVol": 0.95,
-   "close": 69.57
+   "risk": 35,
+   "rsi": 64,
+   "adx": 27,
+   "relVol": 0.6,
+   "close": 94.57
   },
   {
    "name": "OYAKC",
@@ -365,11 +365,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 31,
-   "rsi": 55,
+   "risk": 32,
+   "rsi": 60,
    "adx": 16,
-   "relVol": 1.06,
-   "close": 86.75
+   "relVol": 0.64,
+   "close": 87.1
   },
   {
    "name": "KRDMD",
