@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24T16:37:17.178Z",
- "usdtry": 48.072898864746094,
+ "updated": "2026-08-24T17:30:45.772Z",
+ "usdtry": 48.07279968261719,
  "rows": [
   {
    "name": "EKGYO",
@@ -236,12 +236,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 30,
-   "rsi": 63,
-   "adx": 45,
-   "relVol": 0.67,
-   "close": 4715.8,
-   "gram": 7288.64
+   "risk": 29,
+   "rsi": 55,
+   "adx": 43,
+   "relVol": 0.5,
+   "close": 4697.6,
+   "gram": 7260.49
   },
   {
    "name": "OYAKC",
@@ -461,11 +461,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 34,
-   "rsi": 49,
+   "risk": 33,
+   "rsi": 45,
    "adx": 15,
-   "relVol": 0.99,
-   "close": 68.87
+   "relVol": 0.48,
+   "close": 68.63
   },
   {
    "name": "EREGL",
@@ -493,11 +493,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 19,
-   "rsi": 42,
-   "adx": 28,
-   "relVol": 0.78,
-   "close": 85.08
+   "risk": 18,
+   "rsi": 40,
+   "adx": 27,
+   "relVol": 0.98,
+   "close": 84.86
   },
   {
    "name": "THYAO",
@@ -525,11 +525,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 21,
-   "rsi": 41,
-   "adx": 17,
-   "relVol": 1.18,
-   "close": 92.52
+   "risk": 19,
+   "rsi": 37,
+   "adx": 18,
+   "relVol": 0.93,
+   "close": 92.07
   },
   {
    "name": "KOZAL",
