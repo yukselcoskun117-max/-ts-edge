@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24T17:30:45.772Z",
- "usdtry": 48.07279968261719,
+ "updated": "2026-08-24T18:39:27.121Z",
+ "usdtry": 48.07419967651367,
  "rows": [
   {
    "name": "EKGYO",
@@ -227,23 +227,6 @@
    "close": 400.5
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 29,
-   "rsi": 55,
-   "adx": 43,
-   "relVol": 0.5,
-   "close": 4697.6,
-   "gram": 7260.49
-  },
-  {
    "name": "OYAKC",
    "sym": "OYAKC.IS",
    "tip": "BIST",
@@ -290,6 +273,23 @@
    "adx": 24,
    "relVol": 0.72,
    "close": 12.59
+  },
+  {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 40,
+   "common": 36,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 29,
+   "rsi": 54,
+   "adx": 40,
+   "relVol": 0.7,
+   "close": 4695.8,
+   "gram": 7257.92
   },
   {
    "name": "FROTO",
@@ -463,9 +463,9 @@
    "warrant": false,
    "risk": 33,
    "rsi": 45,
-   "adx": 15,
-   "relVol": 0.48,
-   "close": 68.63
+   "adx": 13,
+   "relVol": 0.5,
+   "close": 68.62
   },
   {
    "name": "EREGL",
@@ -493,11 +493,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 18,
-   "rsi": 40,
+   "risk": 19,
+   "rsi": 43,
    "adx": 27,
-   "relVol": 0.98,
-   "close": 84.86
+   "relVol": 1.05,
+   "close": 85.02
   },
   {
    "name": "THYAO",
@@ -525,11 +525,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 19,
-   "rsi": 37,
-   "adx": 18,
-   "relVol": 0.93,
-   "close": 92.07
+   "risk": 20,
+   "rsi": 40,
+   "adx": 19,
+   "relVol": 1,
+   "close": 92.18
   },
   {
    "name": "KOZAL",
