@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-25T15:42:00.404Z",
- "usdtry": 48.095699310302734,
+ "updated": "2026-08-25T16:37:17.928Z",
+ "usdtry": 48.09489822387695,
  "rows": [
   {
    "name": "AKBNK",
@@ -195,6 +195,22 @@
    "close": 19.73
   },
   {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 0,
+   "s4": 55,
+   "common": 33,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 31,
+   "rsi": 53,
+   "adx": 12,
+   "relVol": 0.69,
+   "close": 68.63
+  },
+  {
    "name": "ASTOR",
    "sym": "ASTOR.IS",
    "tip": "BIST",
@@ -307,54 +323,6 @@
    "close": 90.75
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 15,
-   "s4": 40,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 29,
-   "rsi": 51,
-   "adx": 10,
-   "relVol": 0.7,
-   "close": 68.42
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 30,
-   "s4": 30,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 33,
-   "rsi": 24,
-   "adx": 45,
-   "relVol": 1.87,
-   "close": 87.62
-  },
-  {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 35,
-   "common": 29,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 27,
-   "rsi": 33,
-   "adx": 41,
-   "relVol": 1.28,
-   "close": 82.37
-  },
-  {
    "name": "PGSUS",
    "sym": "PGSUS.IS",
    "tip": "BIST",
@@ -413,11 +381,27 @@
    "secondBuy": false,
    "warrant": false,
    "risk": 26,
-   "rsi": 52,
-   "adx": 21,
-   "relVol": 0.7,
-   "close": 4699.6,
-   "gram": 7267.05
+   "rsi": 51,
+   "adx": 18,
+   "relVol": 0.69,
+   "close": 4697.2,
+   "gram": 7263.21
+  },
+  {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 35,
+   "s4": 20,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 28,
+   "rsi": 33,
+   "adx": 42,
+   "relVol": 0.71,
+   "close": 82.22
   },
   {
    "name": "HEKTS",
@@ -514,6 +498,22 @@
    "adx": 19,
    "relVol": 0.6,
    "close": 92.3
+  },
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 20,
+   "common": 20,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 34,
+   "rsi": 24,
+   "adx": 47,
+   "relVol": 0.69,
+   "close": 87.36
   },
   {
    "name": "FROTO",
