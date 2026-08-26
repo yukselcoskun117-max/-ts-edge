@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-25T18:39:23.550Z",
- "usdtry": 48.08729934692383,
+ "updated": "2026-08-26T06:49:53.653Z",
+ "usdtry": 48.11370086669922,
  "rows": [
   {
    "name": "AKBNK",
@@ -129,22 +129,6 @@
    "adx": 36,
    "relVol": 0.86,
    "close": 403.75
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 55,
-   "common": 41,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 32,
-   "rsi": 55,
-   "adx": 13,
-   "relVol": 0.19,
-   "close": 68.87
   },
   {
    "name": "BIMAS",
@@ -380,12 +364,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 27,
-   "rsi": 54,
-   "adx": 17,
-   "relVol": 0.24,
-   "close": 4706.6,
-   "gram": 7276.6
+   "risk": 24,
+   "rsi": 44,
+   "adx": 13,
+   "relVol": 0.52,
+   "close": 4687,
+   "gram": 7250.27
   },
   {
    "name": "HEKTS",
@@ -468,6 +452,22 @@
    "close": 373.75
   },
   {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 10,
+   "s4": 30,
+   "common": 22,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 30,
+   "rsi": 49,
+   "adx": 14,
+   "relVol": 0.65,
+   "close": 68.67
+  },
+  {
    "name": "ARCLK",
    "sym": "ARCLK.IS",
    "tip": "BIST",
@@ -482,22 +482,6 @@
    "adx": 19,
    "relVol": 0.6,
    "close": 92.3
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 20,
-   "common": 20,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 35,
-   "rsi": 25,
-   "adx": 48,
-   "relVol": 0.78,
-   "close": 87.26
   },
   {
    "name": "FROTO",
@@ -516,20 +500,36 @@
    "close": 78.6
   },
   {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 10,
+   "common": 18,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 46,
+   "rsi": 27,
+   "adx": 56,
+   "relVol": 1.64,
+   "close": 85.68
+  },
+  {
    "name": "WTI",
    "sym": "CL=F",
    "tip": "Emtia",
    "s1": 20,
-   "s4": 0,
-   "common": 8,
+   "s4": 10,
+   "common": 14,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 26,
-   "rsi": 35,
-   "adx": 43,
-   "relVol": 1.17,
-   "close": 82.33
+   "risk": 37,
+   "rsi": 29,
+   "adx": 53,
+   "relVol": 0.17,
+   "close": 80.55
   },
   {
    "name": "KOZAL",
