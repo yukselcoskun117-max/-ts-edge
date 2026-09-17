@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-17T15:36:32.324Z",
- "usdtry": 48.66889953613281,
+ "updated": "2026-09-17T19:34:50.552Z",
+ "usdtry": 48.66830062866211,
  "rows": [
   {
    "name": "ISCTR",
@@ -60,28 +60,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 22,
-   "rsi": 69,
-   "adx": 29,
-   "relVol": 0.46,
-   "close": 66.29
-  },
-  {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 60,
-   "s4": 20,
-   "common": 36,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 11,
-   "rsi": 60,
-   "adx": 28,
-   "relVol": 0.44,
-   "close": 4398.9,
-   "gram": 6883.14
+   "risk": 18,
+   "rsi": 59,
+   "adx": 33,
+   "relVol": 0.16,
+   "close": 65.79
   },
   {
    "name": "BRSAN",
@@ -141,7 +124,7 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 36,
+   "risk": 31,
    "rsi": 62,
    "adx": 28,
    "relVol": 0.13,
@@ -194,6 +177,22 @@
    "adx": 27,
    "relVol": 1.33,
    "close": 3.15
+  },
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 35,
+   "common": 29,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 27,
+   "rsi": 48,
+   "adx": 28,
+   "relVol": 0.22,
+   "close": 103.87
   },
   {
    "name": "ASELS",
@@ -317,27 +316,28 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 32,
+   "risk": 31,
    "rsi": 52,
    "adx": 26,
    "relVol": 0.83,
    "close": 85.75
   },
   {
-   "name": "FROTO",
-   "sym": "FROTO.IS",
-   "tip": "BIST",
-   "s1": 20,
-   "s4": 30,
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 50,
+   "s4": 10,
    "common": 26,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 38,
-   "rsi": 49,
-   "adx": 34,
-   "relVol": 0.67,
-   "close": 77.45
+   "risk": 12,
+   "rsi": 55,
+   "adx": 31,
+   "relVol": 0.2,
+   "close": 4387.8,
+   "gram": 6865.68
   },
   {
    "name": "ASTOR",
@@ -420,20 +420,20 @@
    "close": 44.08
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
+   "name": "FROTO",
+   "sym": "FROTO.IS",
+   "tip": "BIST",
    "s1": 20,
    "s4": 20,
    "common": 20,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 30,
-   "rsi": 48,
-   "adx": 35,
-   "relVol": 1,
-   "close": 103.6
+   "risk": 35,
+   "rsi": 49,
+   "adx": 34,
+   "relVol": 0.67,
+   "close": 77.45
   },
   {
    "name": "OYAKC",
@@ -509,11 +509,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 25,
-   "rsi": 41,
-   "adx": 35,
-   "relVol": 0.84,
-   "close": 100.68
+   "risk": 27,
+   "rsi": 45,
+   "adx": 28,
+   "relVol": 0.25,
+   "close": 101.18
   },
   {
    "name": "BIMAS",
