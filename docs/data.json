@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15T15:32:54.265Z",
- "usdtry": 49.411800384521484,
+ "updated": "2026-10-15T19:43:26.290Z",
+ "usdtry": 49.41389846801758,
  "rows": [
   {
    "name": "GARAN",
@@ -19,22 +19,6 @@
    "close": 133.9
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 85,
-   "common": 59,
-   "sig": "İZLE",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 34,
-   "rsi": 62,
-   "adx": 19,
-   "relVol": 1.09,
-   "close": 95.96
-  },
-  {
    "name": "EKGYO",
    "sym": "EKGYO.IS",
    "tip": "BIST",
@@ -51,20 +35,20 @@
    "close": 19.8
   },
   {
-   "name": "Brent",
-   "sym": "BZ=F",
+   "name": "WTI",
+   "sym": "CL=F",
    "tip": "Emtia",
-   "s1": 35,
-   "s4": 55,
-   "common": 47,
+   "s1": 30,
+   "s4": 60,
+   "common": 48,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 24,
+   "risk": 34,
    "rsi": 61,
-   "adx": 22,
-   "relVol": 1.15,
-   "close": 106.22
+   "adx": 25,
+   "relVol": 0.39,
+   "close": 96.23
   },
   {
    "name": "ISCTR",
@@ -103,33 +87,17 @@
    "sym": "GC=F",
    "tip": "Emtia",
    "s1": 40,
-   "s4": 40,
-   "common": 40,
+   "s4": 30,
+   "common": 34,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
    "risk": 7,
    "rsi": 59,
-   "adx": 22,
-   "relVol": 0.68,
-   "close": 4178.8,
-   "gram": 6638.55
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 36,
-   "rsi": 59,
-   "adx": 32,
-   "relVol": 0.69,
-   "close": 57.38
+   "adx": 18,
+   "relVol": 0.42,
+   "close": 4180.7,
+   "gram": 6641.85
   },
   {
    "name": "EREGL",
@@ -292,6 +260,22 @@
    "close": 80.65
   },
   {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 30,
+   "common": 30,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 35,
+   "rsi": 57,
+   "adx": 25,
+   "relVol": 0.34,
+   "close": 57.33
+  },
+  {
    "name": "SAHOL",
    "sym": "SAHOL.IS",
    "tip": "BIST",
@@ -322,6 +306,22 @@
    "adx": 7,
    "relVol": 1.17,
    "close": 351
+  },
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 30,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 21,
+   "rsi": 56,
+   "adx": 19,
+   "relVol": 0.14,
+   "close": 105.81
   },
   {
    "name": "AKBNK",
