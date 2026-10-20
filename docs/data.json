@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T15:44:28.419Z",
- "usdtry": 49.5718994140625,
+ "updated": "2026-10-20T19:51:21.910Z",
+ "usdtry": 49.5702018737793,
  "rows": [
   {
    "name": "YKBNK",
@@ -67,22 +67,6 @@
    "close": 89.2
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 45,
-   "s4": 50,
-   "common": 48,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 34,
-   "rsi": 44,
-   "adx": 25,
-   "relVol": 2.74,
-   "close": 97.55
-  },
-  {
    "name": "BRSAN",
    "sym": "BRSAN.IS",
    "tip": "BIST",
@@ -131,6 +115,22 @@
    "close": 208.4
   },
   {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 25,
+   "s4": 50,
+   "common": 40,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 36,
+   "rsi": 49,
+   "adx": 25,
+   "relVol": 0.25,
+   "close": 98.29
+  },
+  {
    "name": "PGSUS",
    "sym": "PGSUS.IS",
    "tip": "BIST",
@@ -145,38 +145,6 @@
    "adx": 23,
    "relVol": 1.43,
    "close": 132
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 50,
-   "s4": 30,
-   "common": 38,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 18,
-   "rsi": 57,
-   "adx": 21,
-   "relVol": 1.85,
-   "close": 57.91
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 45,
-   "s4": 30,
-   "common": 36,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 31,
-   "rsi": 45,
-   "adx": 29,
-   "relVol": 3.73,
-   "close": 108.43
   },
   {
    "name": "TOASO",
@@ -291,6 +259,22 @@
    "close": 1.55
   },
   {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 30,
+   "common": 30,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 32,
+   "rsi": 50,
+   "adx": 28,
+   "relVol": 0.21,
+   "close": 109.27
+  },
+  {
    "name": "TUPRS",
    "sym": "TUPRS.IS",
    "tip": "BIST",
@@ -337,6 +321,22 @@
    "adx": 16,
    "relVol": 1.18,
    "close": 97.65
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 20,
+   "common": 28,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 18,
+   "rsi": 55,
+   "adx": 22,
+   "relVol": 0.26,
+   "close": 57.87
   },
   {
    "name": "ASTOR",
@@ -419,23 +419,6 @@
    "close": 79.85
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 10,
-   "s4": 35,
-   "common": 25,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 10,
-   "rsi": 48,
-   "adx": 24,
-   "relVol": 1.07,
-   "close": 4151.7,
-   "gram": 6616.87
-  },
-  {
    "name": "ASELS",
    "sym": "ASELS.IS",
    "tip": "BIST",
@@ -514,6 +497,23 @@
    "adx": 21,
    "relVol": 0.83,
    "close": 1.97
+  },
+  {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 20,
+   "common": 20,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 11,
+   "rsi": 42,
+   "adx": 21,
+   "relVol": 0.31,
+   "close": 4137.9,
+   "gram": 6594.64
   },
   {
    "name": "PETKM",
