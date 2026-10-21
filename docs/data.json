@@ -1,7 +1,23 @@
 {
- "updated": "2026-10-21T16:03:16.384Z",
- "usdtry": 49.5984001159668,
+ "updated": "2026-10-21T20:18:21.374Z",
+ "usdtry": 49.59669876098633,
  "rows": [
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 55,
+   "s4": 35,
+   "common": 43,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 14,
+   "rsi": 58,
+   "adx": 16,
+   "relVol": 0.11,
+   "close": 58.06
+  },
   {
    "name": "SAHOL",
    "sym": "SAHOL.IS",
@@ -99,20 +115,21 @@
    "close": 129.3
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
    "tip": "Emtia",
-   "s1": 25,
-   "s4": 40,
+   "s1": 55,
+   "s4": 20,
    "common": 34,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 27,
-   "rsi": 40,
-   "adx": 20,
-   "relVol": 2.65,
-   "close": 97.05
+   "risk": 8,
+   "rsi": 54,
+   "adx": 15,
+   "relVol": 0.08,
+   "close": 4153.3,
+   "gram": 6622.73
   },
   {
    "name": "ASTOR",
@@ -259,37 +276,20 @@
    "close": 67.2
   },
   {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
+   "name": "WTI",
+   "sym": "CL=F",
    "tip": "Emtia",
-   "s1": 40,
-   "s4": 20,
-   "common": 28,
+   "s1": 0,
+   "s4": 45,
+   "common": 27,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 9,
-   "rsi": 55,
-   "adx": 11,
-   "relVol": 1.56,
-   "close": 4151.5,
-   "gram": 6620.08
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 20,
-   "common": 28,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 18,
-   "rsi": 53,
-   "adx": 16,
-   "relVol": 1.85,
-   "close": 57.72
+   "risk": 29,
+   "rsi": 48,
+   "adx": 18,
+   "relVol": 0.09,
+   "close": 97.91
   },
   {
    "name": "ASELS",
@@ -420,6 +420,22 @@
    "close": 42.04
   },
   {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 10,
+   "s4": 30,
+   "common": 22,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 30,
+   "rsi": 53,
+   "adx": 16,
+   "relVol": 0.06,
+   "close": 109.86
+  },
+  {
    "name": "BIMAS",
    "sym": "BIMAS.IS",
    "tip": "BIST",
@@ -498,22 +514,6 @@
    "adx": 21,
    "relVol": 0.8,
    "close": 18.57
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 10,
-   "s4": 20,
-   "common": 16,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 25,
-   "rsi": 44,
-   "adx": 19,
-   "relVol": 3.06,
-   "close": 108.61
   },
   {
    "name": "PETKM",
