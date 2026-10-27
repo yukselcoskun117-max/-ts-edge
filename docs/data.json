@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T17:34:35.508Z",
- "usdtry": 49.78340148925781,
+ "updated": "2026-10-27T21:52:30.173Z",
+ "usdtry": 49.781898498535156,
  "rows": [
   {
    "name": "GUBRF",
@@ -92,12 +92,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 11,
-   "rsi": 70,
-   "adx": 27,
-   "relVol": 0.58,
-   "close": 4074.7,
-   "gram": 6521.85
+   "risk": 12,
+   "rsi": 68,
+   "adx": 30,
+   "relVol": 0.3,
+   "close": 4073.1,
+   "gram": 6519.09
   },
   {
    "name": "Gümüş",
@@ -109,11 +109,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 28,
-   "rsi": 62,
-   "adx": 27,
-   "relVol": 0.61,
-   "close": 54.51
+   "risk": 29,
+   "rsi": 61,
+   "adx": 26,
+   "relVol": 0.35,
+   "close": 54.49
   },
   {
    "name": "HEKTS",
@@ -440,16 +440,16 @@
    "sym": "CL=F",
    "tip": "Emtia",
    "s1": 0,
-   "s4": 40,
-   "common": 24,
+   "s4": 30,
+   "common": 18,
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 20,
-   "rsi": 40,
-   "adx": 13,
-   "relVol": 0.44,
-   "close": 100.03
+   "risk": 22,
+   "rsi": 42,
+   "adx": 16,
+   "relVol": 0.61,
+   "close": 100.2
   },
   {
    "name": "SAHOL",
@@ -494,10 +494,10 @@
    "secondBuy": false,
    "warrant": false,
    "risk": 15,
-   "rsi": 44,
-   "adx": 11,
-   "relVol": 0.56,
-   "close": 109.61
+   "rsi": 46,
+   "adx": 12,
+   "relVol": 0.4,
+   "close": 109.74
   },
   {
    "name": "BRSAN",
