@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T15:24:07.207Z",
- "usdtry": 50.1786003112793,
+ "updated": "2026-11-09T23:49:47.325Z",
+ "usdtry": 50.20930099487305,
  "rows": [
   {
    "name": "AKBNK",
@@ -236,12 +236,28 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 21,
-   "rsi": 58,
+   "risk": 23,
+   "rsi": 62,
+   "adx": 15,
+   "relVol": 0.37,
+   "close": 4146.2,
+   "gram": 6693.07
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 50,
+   "common": 42,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 32,
+   "rsi": 63,
    "adx": 17,
-   "relVol": 0.43,
-   "close": 4126,
-   "gram": 6656.39
+   "relVol": 0.68,
+   "close": 53.42
   },
   {
    "name": "GARAN",
@@ -308,22 +324,6 @@
    "close": 38.74
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 50,
-   "common": 38,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 26,
-   "rsi": 53,
-   "adx": 15,
-   "relVol": 0.36,
-   "close": 52.63
-  },
-  {
    "name": "GUBRF",
    "sym": "GUBRF.IS",
    "tip": "BIST",
@@ -372,6 +372,22 @@
    "close": 70.5
   },
   {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 30,
+   "s4": 30,
+   "common": 30,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 73,
+   "rsi": 36,
+   "adx": 27,
+   "relVol": 0.09,
+   "close": 86.41
+  },
+  {
    "name": "SASA",
    "sym": "SASA.IS",
    "tip": "BIST",
@@ -404,8 +420,8 @@
    "close": 78.35
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
+   "name": "Brent",
+   "sym": "BZ=F",
    "tip": "Emtia",
    "s1": 20,
    "s4": 30,
@@ -413,11 +429,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 67,
-   "rsi": 37,
-   "adx": 20,
-   "relVol": 0.49,
-   "close": 87.85
+   "risk": 84,
+   "rsi": 33,
+   "adx": 24,
+   "relVol": 0.14,
+   "close": 92.31
   },
   {
    "name": "ASELS",
@@ -498,22 +514,6 @@
    "adx": 18,
    "relVol": 1.48,
    "close": 332.25
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 20,
-   "common": 20,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 74,
-   "rsi": 35,
-   "adx": 17,
-   "relVol": 0.42,
-   "close": 94.42
   },
   {
    "name": "KRDMD",
