@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T15:35:45.818Z",
- "usdtry": 50.414398193359375,
+ "updated": "2026-11-17T23:21:48.467Z",
+ "usdtry": 50.43709945678711,
  "rows": [
   {
    "name": "KONTR",
@@ -99,22 +99,6 @@
    "close": 96.3
   },
   {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 20,
-   "s4": 40,
-   "common": 32,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 48,
-   "rsi": 54,
-   "adx": 21,
-   "relVol": 1.2,
-   "close": 47.71
-  },
-  {
    "name": "FROTO",
    "sym": "FROTO.IS",
    "tip": "BIST",
@@ -161,23 +145,6 @@
    "adx": 60,
    "relVol": 1.17,
    "close": 70.2
-  },
-  {
-   "name": "Altın (Ons)",
-   "sym": "GC=F",
-   "tip": "Emtia",
-   "s1": 30,
-   "s4": 30,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 24,
-   "rsi": 52,
-   "adx": 17,
-   "relVol": 1.24,
-   "close": 3872,
-   "gram": 6275.97
   },
   {
    "name": "BRSAN",
@@ -292,6 +259,55 @@
    "close": 1.56
   },
   {
+   "name": "Altın (Ons)",
+   "sym": "GC=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 30,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 25,
+   "rsi": 44,
+   "adx": 14,
+   "relVol": 0.12,
+   "close": 3853.2,
+   "gram": 6248.31
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 30,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 48,
+   "rsi": 49,
+   "adx": 15,
+   "relVol": 0.06,
+   "close": 47.4
+  },
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 35,
+   "s4": 20,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 22,
+   "rsi": 53,
+   "adx": 17,
+   "relVol": 0.01,
+   "close": 93.3
+  },
+  {
    "name": "AKBNK",
    "sym": "AKBNK.IS",
    "tip": "BIST",
@@ -349,11 +365,11 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 20,
-   "rsi": 54,
-   "adx": 29,
-   "relVol": 1.21,
-   "close": 86.53
+   "risk": 25,
+   "rsi": 45,
+   "adx": 26,
+   "relVol": 0.01,
+   "close": 85.79
   },
   {
    "name": "ISCTR",
@@ -498,22 +514,6 @@
    "adx": 29,
    "relVol": 0.86,
    "close": 202
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 10,
-   "s4": 20,
-   "common": 16,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 24,
-   "rsi": 52,
-   "adx": 20,
-   "relVol": 1.1,
-   "close": 93.2
   },
   {
    "name": "YKBNK",
