@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T17:03:36.620Z",
- "usdtry": 50.62139892578125,
+ "updated": "2026-11-25T01:30:18.728Z",
+ "usdtry": 50.667728424072266,
  "rows": [
   {
    "name": "BRSAN",
@@ -17,38 +17,6 @@
    "adx": 29,
    "relVol": 2.02,
    "close": 645
-  },
-  {
-   "name": "PETKM",
-   "sym": "PETKM.IS",
-   "tip": "BIST",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 78,
-   "rsi": 47,
-   "adx": 34,
-   "relVol": 6.64,
-   "close": 14.9
-  },
-  {
-   "name": "Brent",
-   "sym": "BZ=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 40,
-   "common": 40,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 39,
-   "rsi": 52,
-   "adx": 29,
-   "relVol": 4.09,
-   "close": 87.46
   },
   {
    "name": "TUPRS",
@@ -81,6 +49,22 @@
    "adx": 16,
    "relVol": 0.37,
    "close": 248.4
+  },
+  {
+   "name": "Brent",
+   "sym": "BZ=F",
+   "tip": "Emtia",
+   "s1": 50,
+   "s4": 30,
+   "common": 38,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 29,
+   "rsi": 56,
+   "adx": 20,
+   "relVol": 0.21,
+   "close": 88.27
   },
   {
    "name": "THYAO",
@@ -131,22 +115,6 @@
    "close": 64.05
   },
   {
-   "name": "WTI",
-   "sym": "CL=F",
-   "tip": "Emtia",
-   "s1": 40,
-   "s4": 30,
-   "common": 34,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 43,
-   "rsi": 51,
-   "adx": 28,
-   "relVol": 3.37,
-   "close": 80.74
-  },
-  {
    "name": "ARCLK",
    "sym": "ARCLK.IS",
    "tip": "BIST",
@@ -179,6 +147,22 @@
    "close": 1.48
   },
   {
+   "name": "PETKM",
+   "sym": "PETKM.IS",
+   "tip": "BIST",
+   "s1": 30,
+   "s4": 30,
+   "common": 30,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 78,
+   "rsi": 47,
+   "adx": 34,
+   "relVol": 1.02,
+   "close": 14.9
+  },
+  {
    "name": "SAHOL",
    "sym": "SAHOL.IS",
    "tip": "BIST",
@@ -204,28 +188,12 @@
    "sig": "—",
    "secondBuy": false,
    "warrant": false,
-   "risk": 40,
-   "rsi": 32,
-   "adx": 18,
-   "relVol": 1.54,
-   "close": 3565.8,
-   "gram": 5803.39
-  },
-  {
-   "name": "Gümüş",
-   "sym": "SI=F",
-   "tip": "Emtia",
-   "s1": 30,
-   "s4": 30,
-   "common": 30,
-   "sig": "—",
-   "secondBuy": false,
-   "warrant": false,
-   "risk": 90,
-   "rsi": 31,
-   "adx": 18,
-   "relVol": 2.27,
-   "close": 40.69
+   "risk": 41,
+   "rsi": 27,
+   "adx": 25,
+   "relVol": 0.11,
+   "close": 3535,
+   "gram": 5758.53
   },
   {
    "name": "ASTOR",
@@ -258,6 +226,22 @@
    "adx": 12,
    "relVol": 0.69,
    "close": 154.2
+  },
+  {
+   "name": "WTI",
+   "sym": "CL=F",
+   "tip": "Emtia",
+   "s1": 40,
+   "s4": 20,
+   "common": 28,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 34,
+   "rsi": 54,
+   "adx": 16,
+   "relVol": 0.23,
+   "close": 81.49
   },
   {
    "name": "AKBNK",
@@ -370,6 +354,22 @@
    "adx": 39,
    "relVol": 0.6,
    "close": 31.22
+  },
+  {
+   "name": "Gümüş",
+   "sym": "SI=F",
+   "tip": "Emtia",
+   "s1": 20,
+   "s4": 30,
+   "common": 26,
+   "sig": "—",
+   "secondBuy": false,
+   "warrant": false,
+   "risk": 84,
+   "rsi": 34,
+   "adx": 17,
+   "relVol": 0.23,
+   "close": 40.55
   },
   {
    "name": "FROTO",
